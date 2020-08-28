@@ -38,3 +38,6 @@ class TestPubAritcle:
     # 5.关闭浏览器
     def teardown_class(self):
         DriverUtils.quit_mp_driver()
+
+
+print("1.12.2")

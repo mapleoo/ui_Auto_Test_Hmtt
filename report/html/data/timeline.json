@@ -1,0 +1,147 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-PRIEUNN",
+    "children" : [ {
+      "name" : "8364-MainThread",
+      "children" : [ {
+        "name" : "test_mp_login",
+        "uid" : "5cdb339207348a37",
+        "parentUid" : "6e6f4fdd1b0c97b8e053d16f2831f151",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598517349276,
+          "stop" : 1598517350583,
+          "duration" : 1307
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "764211431facb4b7",
+        "parentUid" : "6e6f4fdd1b0c97b8e053d16f2831f151",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598517343320,
+          "stop" : 1598517343320,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pub_ari[Test001{}-我要月入20K-软件测试-新增文章成功]",
+        "uid" : "ad218d1a37e20bee",
+        "parentUid" : "6e6f4fdd1b0c97b8e053d16f2831f151",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598517351061,
+          "stop" : 1598517359965,
+          "duration" : 8904
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'软件测试'", "'我要月入20K'", "'Test001{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_pub_ari[Test001_NB{}-我要月入20K-人工智能-新增文章成功]",
+        "uid" : "d3d2a93d225aac4",
+        "parentUid" : "6e6f4fdd1b0c97b8e053d16f2831f151",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598517360692,
+          "stop" : 1598517365639,
+          "duration" : 4947
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'人工智能'", "'我要月入20K'", "'Test001_NB{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_end",
+        "uid" : "3986d6b8f5b6a959",
+        "parentUid" : "6e6f4fdd1b0c97b8e053d16f2831f151",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598517365757,
+          "stop" : 1598517371868,
+          "duration" : 6111
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6e6f4fdd1b0c97b8e053d16f2831f151"
+    }, {
+      "name" : "3684-MainThread",
+      "children" : [ {
+        "name" : "test_pub_ari[Test001{}-我要月入20K-软件测试-新增文章成功]",
+        "uid" : "da7f192b4c656d22",
+        "parentUid" : "6e623f5cf2ecf00c002322c11471b5cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598515286736,
+          "stop" : 1598515295441,
+          "duration" : 8705
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'软件测试'", "'我要月入20K'", "'Test001{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_mp_login",
+        "uid" : "623cab43b774751f",
+        "parentUid" : "6e623f5cf2ecf00c002322c11471b5cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598515284991,
+          "stop" : 1598515286211,
+          "duration" : 1220
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_end",
+        "uid" : "91209734db2440c1",
+        "parentUid" : "6e623f5cf2ecf00c002322c11471b5cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598515300772,
+          "stop" : 1598515306875,
+          "duration" : 6103
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pub_ari[Test001_NB{}-我要月入20K-人工智能-新增文章成功]",
+        "uid" : "806a9400440f489b",
+        "parentUid" : "6e623f5cf2ecf00c002322c11471b5cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598515296438,
+          "stop" : 1598515300763,
+          "duration" : 4325
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'人工智能'", "'我要月入20K'", "'Test001_NB{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "ef838afa7eaa6bea",
+        "parentUid" : "6e623f5cf2ecf00c002322c11471b5cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598515278696,
+          "stop" : 1598515278696,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6e623f5cf2ecf00c002322c11471b5cb"
+    } ],
+    "uid" : "cde52073180a97b7d68f6c2c77c97093"
+  } ]
+}

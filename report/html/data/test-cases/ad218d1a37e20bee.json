@@ -1,0 +1,155 @@
+{
+  "uid" : "ad218d1a37e20bee",
+  "name" : "test_pub_ari[Test001{}-我要月入20K-软件测试-新增文章成功]",
+  "fullName" : "case.mp.test_pub_aritcle.TestPubAritcle#test_pub_ari",
+  "historyId" : "27f57bf1a271ff3d5aed74c0e93e56ea",
+  "time" : {
+    "start" : 1598517351061,
+    "stop" : 1598517359965,
+    "duration" : 8904
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1598517350590,
+      "stop" : 1598517350590,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "_Class__pytest_setup_method",
+    "time" : {
+      "start" : 1598517350590,
+      "stop" : 1598517351060,
+      "duration" : 470
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3f5299bbd3489946",
+      "name" : "发布文章",
+      "source" : "3f5299bbd3489946.png",
+      "type" : "image/png",
+      "size" : 68535
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1598517365745,
+      "stop" : 1598517365745,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "_Class__pytest_setup_method::0",
+    "time" : {
+      "start" : 1598517359971,
+      "stop" : 1598517359971,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=3)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case.mp"
+  }, {
+    "name" : "suite",
+    "value" : "test_pub_aritcle"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPubAritcle"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-PRIEUNN"
+  }, {
+    "name" : "thread",
+    "value" : "8364-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.mp.test_pub_aritcle"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "ari_channel",
+    "value" : "'软件测试'"
+  }, {
+    "name" : "ari_context",
+    "value" : "'我要月入20K'"
+  }, {
+    "name" : "ari_title",
+    "value" : "'Test001{}'"
+  }, {
+    "name" : "expect",
+    "value" : "'新增文章成功'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "da7f192b4c656d22",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598515286736,
+        "stop" : 1598515295441,
+        "duration" : 8705
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "run(order=3)" ]
+  },
+  "source" : "ad218d1a37e20bee.json",
+  "parameterValues" : [ "'软件测试'", "'我要月入20K'", "'Test001{}'", "'新增文章成功'" ]
+}

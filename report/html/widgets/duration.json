@@ -1,0 +1,51 @@
+[ {
+  "uid" : "764211431facb4b7",
+  "name" : "test_begin",
+  "time" : {
+    "start" : 1598517343320,
+    "stop" : 1598517343320,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5cdb339207348a37",
+  "name" : "test_mp_login",
+  "time" : {
+    "start" : 1598517349276,
+    "stop" : 1598517350583,
+    "duration" : 1307
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d3d2a93d225aac4",
+  "name" : "test_pub_ari[Test001_NB{}-我要月入20K-人工智能-新增文章成功]",
+  "time" : {
+    "start" : 1598517360692,
+    "stop" : 1598517365639,
+    "duration" : 4947
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad218d1a37e20bee",
+  "name" : "test_pub_ari[Test001{}-我要月入20K-软件测试-新增文章成功]",
+  "time" : {
+    "start" : 1598517351061,
+    "stop" : 1598517359965,
+    "duration" : 8904
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3986d6b8f5b6a959",
+  "name" : "test_end",
+  "time" : {
+    "start" : 1598517365757,
+    "stop" : 1598517371868,
+    "duration" : 6111
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

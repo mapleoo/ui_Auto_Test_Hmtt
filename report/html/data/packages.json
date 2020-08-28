@@ -1,0 +1,90 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "case.mp",
+    "children" : [ {
+      "name" : "test_begin",
+      "children" : [ {
+        "name" : "test_begin",
+        "uid" : "764211431facb4b7",
+        "parentUid" : "483a23d8988956c5156815f02b8bb31d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598517343320,
+          "stop" : 1598517343320,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "483a23d8988956c5156815f02b8bb31d"
+    }, {
+      "name" : "test_mp_login",
+      "children" : [ {
+        "name" : "test_mp_login",
+        "uid" : "5cdb339207348a37",
+        "parentUid" : "e5d8885fd53b21d70f3d09f41aa777fc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598517349276,
+          "stop" : 1598517350583,
+          "duration" : 1307
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e5d8885fd53b21d70f3d09f41aa777fc"
+    }, {
+      "name" : "test_pub_aritcle",
+      "children" : [ {
+        "name" : "test_pub_ari[Test001{}-我要月入20K-软件测试-新增文章成功]",
+        "uid" : "ad218d1a37e20bee",
+        "parentUid" : "6188c6bcdc49b08b58994be78082a873",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598517351061,
+          "stop" : 1598517359965,
+          "duration" : 8904
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'软件测试'", "'我要月入20K'", "'Test001{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_pub_ari[Test001_NB{}-我要月入20K-人工智能-新增文章成功]",
+        "uid" : "d3d2a93d225aac4",
+        "parentUid" : "6188c6bcdc49b08b58994be78082a873",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598517360692,
+          "stop" : 1598517365639,
+          "duration" : 4947
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'人工智能'", "'我要月入20K'", "'Test001_NB{}'", "'新增文章成功'" ]
+      } ],
+      "uid" : "6188c6bcdc49b08b58994be78082a873"
+    }, {
+      "name" : "test_end",
+      "children" : [ {
+        "name" : "test_end",
+        "uid" : "3986d6b8f5b6a959",
+        "parentUid" : "7a7eef47d6905cd43ddd52ef4057502b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598517365757,
+          "stop" : 1598517371868,
+          "duration" : 6111
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7a7eef47d6905cd43ddd52ef4057502b"
+    } ],
+    "uid" : "case.mp"
+  } ]
+}
